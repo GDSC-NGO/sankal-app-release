@@ -1,0 +1,1 @@
+# sankal-app-release
